@@ -1,0 +1,15 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 80vh;
+}
+
+.home-blog {
+  height: 240px;
+}
+
+.heading {
+  color: #12022f;
+}
